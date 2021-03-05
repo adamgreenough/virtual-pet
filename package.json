@@ -1,0 +1,10 @@
+{
+  "name": "addycodes",
+  "version": "1.0.0",
+  "scripts": {
+    "scss": "node-sass --watch public/assets/styles -o ."
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
